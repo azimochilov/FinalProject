@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pjJ9rvcC1hjTd8zAHcBKe+ueqDxrXNcY2X2hisWICr9dPkHxIcotyiGIb5jZpqMwmz6wCAOdbIilbaawLkOB8g==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\RecruitmentPlatform\\RecruitmentPlatform.Service\\RecruitmentPlatform.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenvo\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
