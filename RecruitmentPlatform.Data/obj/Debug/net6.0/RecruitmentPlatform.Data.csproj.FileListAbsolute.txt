@@ -13,3 +13,5 @@ C:\projects\RecruitmentPlatform\RecruitmentPlatform.Data\obj\Debug\net6.0\Recrui
 C:\projects\RecruitmentPlatform\RecruitmentPlatform.Data\obj\Debug\net6.0\refint\RecruitmentPlatform.Data.dll
 C:\projects\RecruitmentPlatform\RecruitmentPlatform.Data\obj\Debug\net6.0\RecruitmentPlatform.Data.pdb
 C:\projects\RecruitmentPlatform\RecruitmentPlatform.Data\obj\Debug\net6.0\ref\RecruitmentPlatform.Data.dll
+C:\projects\RecruitmentPlatform\RecruitmentPlatform.Data\bin\Debug\net6.0\RecruitmentPlatform.Data.runtimeconfig.json
+C:\projects\RecruitmentPlatform\RecruitmentPlatform.Data\obj\Debug\net6.0\RecruitmentPlatform.Data.genruntimeconfig.cache
