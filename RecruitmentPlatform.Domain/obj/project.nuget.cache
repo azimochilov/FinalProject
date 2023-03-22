@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NUmWZ+FKf1VtepbwxNx+H1wqnLBGVRKR3YwZKNOGEGgmMkEyXgJRoD6rNDBhLDFt+nFQz9e5J+NIapfXskOTig==",
+  "dgSpecHash": "qESXoqOMHCYwLSGTna+ZQ+WDp6Kkfp1eCviwIXrGpyxY0fMDMUniXyhAzsQpfcTMMrpSZ+iTIR+EXBdfCYsQkQ==",
   "success": true,
   "projectFilePath": "C:\\projects\\RecruitmentPlatform\\RecruitmentPlatform.Domain\\RecruitmentPlatform.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lenvo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\lenvo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\lenvo\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\lenvo\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
